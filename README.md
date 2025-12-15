@@ -1,15 +1,16 @@
 # Evan-hackpad
-this is a thing tha\
 
--list of materils (BOM)
--how it works / the idea of what you want
--what ur gonna use it for
+i used an oled screen, 9 keys/switches, and a xiao prosessor 
+
+all the switches anre linked into the xiao and so is the oled so when i plug it in i can program the buttons to run spesific functions
+
+i will use it to game controll music and  use it to controll some of my other arduino/razberry pi progects
 
 -photos of fusion case
 -pcb photo 
 
 -code files
--3d model filr
+-3d model file
 -PCB gerber filezip
 
 
