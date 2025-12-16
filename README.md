@@ -7,10 +7,11 @@ all the switches anre linked into the xiao and so is the oled so when i plug it 
 i will use it to game controll music and  use it to controll some of my other arduino/razberry pi progects
 
 -photos of fusion case
--pcb photo 
+<img width="1385" height="754" alt="image" src="https://github.com/user-attachments/assets/818a90a0-999f-4915-9caa-123b5388a950" />
+
 
 -code files
 -3d model file
--PCB gerber filezip
+
 
 
