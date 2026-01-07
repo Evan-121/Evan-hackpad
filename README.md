@@ -10,7 +10,7 @@ i will use it to game controll music and  use it to controll some of my other ar
 <img width="653" height="627" alt="image" src="https://github.com/user-attachments/assets/1a27b092-c83f-492a-b95b-c75d9c07a4c5" />
 
 i then designes the case in fusion and brought in the pcb to test the fit
-<img width="672" height="585" alt="image" src="https://github.com/user-attachments/assets/70acab6c-d937-4ffe-b251-e844e37cea3c" />
+
 
 
 
