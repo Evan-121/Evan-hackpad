@@ -9,9 +9,14 @@ i will use it to game controll music and  use it to controll some of my other ar
 
 <img width="653" height="627" alt="image" src="https://github.com/user-attachments/assets/1a27b092-c83f-492a-b95b-c75d9c07a4c5" />
 
-i then designes the case in fusion and brought in the pcb to test the fit
+i then designed the case in fusion and brought in the pcb to test the fit
 
 <img width="1422" height="947" alt="image" src="https://github.com/user-attachments/assets/07040598-27ad-4c7b-8e6d-af6f58078009" />
+
+i then got the modells from grabcad and assembled it all in fusion
+
+<img width="1423" height="1017" alt="image" src="https://github.com/user-attachments/assets/7ecb7d46-032c-433c-83da-ac902ad4242a" />
+
 
 
 
