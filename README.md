@@ -11,6 +11,9 @@ i will use it to game controll music and  use it to controll some of my other ar
 
 i then designes the case in fusion and brought in the pcb to test the fit
 
+<img width="1420" height="962" alt="image" src="https://github.com/user-attachments/assets/704e7249-f609-4e8c-8f1e-ebe0e6458e43" />
+
+
 
 
 
